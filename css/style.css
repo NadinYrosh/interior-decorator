@@ -1,0 +1,36 @@
+body {
+  margin: auto;
+  font-family: 'helvetica neue';
+  font-weight: 200;
+}
+
+header {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.column {
+  width: 250px;
+  float: left;
+  padding: 10px;
+}
+
+img {
+  width: 250px;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  letter-spacing: 1px;
+  text-align: justify;
+}
+
+article {
+  width: 830px;
+  margin: auto;
+}
