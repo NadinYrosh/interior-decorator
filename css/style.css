@@ -34,3 +34,18 @@ article {
   width: 830px;
   margin: auto;
 }
+
+@media screen and (max-width:480px) {
+  .column, header, article {
+    display: block;
+    float: none;
+    width: auto;
+    margin: auto;
+  }
+
+  img {
+    text-align: center;
+    width: 365px;
+    margin:  auto;
+  }
+}
